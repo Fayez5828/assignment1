@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+    padding: 0;
+
+}
+
+.header {
+    width: 100%;
+    background: url(./images/banner/banner1.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: absolute;
+
+}
+
+.header h1 {
+    position: absolute;
+    width: 420px;
+    height: 200px;
+    left: 839px;
+    top: 150px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 59px;
+    line-height: 69px;
+    text-align: right;
+}
+
+.header h3 {
+    position: absolute;
+    width: 420px;
+    height: 10px;
+    left: 839px;
+    top: 380px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+
+}
+
+.btn {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 1157px;
+    top: 490px;
+    background: orangered;
+    color: white;
+
+}
+
+.failures {
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    height: 729.3px;
+    left: 175px;
+    top: 780px;
+
+
+}
+
+.failures h1 {
+    position: absolute;
+    width: 420px;
+    height: 200px;
+    left: 750px;
+    top: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: inherit;
+    text-align: left;
+}
+
+.failures h3 {
+    position: absolute;
+    width: 420px;
+    height: 10px;
+    left: 750px;
+    top: 485px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.my-plan h2 {
+    text-align: center;
+    position: absolute;
+
+}
